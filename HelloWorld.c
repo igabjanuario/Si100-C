@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("Wello World!"); //Imprime "Hello World!"
+    printf("Wello World!"); // Imprime Frase
     return 0;
 }
